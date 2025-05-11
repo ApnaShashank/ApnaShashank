@@ -36,19 +36,40 @@
 
 ---
 
-### 📣 Let's Connect
+### 🌐 Let's Connect & Collaborate
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shashank-gupta-2080b6338/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/ApnaShashank"><img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github" /></a>
-  <a href="https://linktr.ee/shashankgupta172"><img src="https://img.shields.io/badge/-Linktree-43E660?style=for-the-badge&logo=linktree&logoColor=white" /></a>
-</p>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/shashank-gupta-2080b6338/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://github.com/ApnaShashank" target="_blank">
+  <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<a href="https://linktr.ee/shashankgupta172" target="_blank">
+  <img src="https://img.shields.io/badge/-Linktree-%2339E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
+</a>
+
+</div>
 
 ---
 
-### ✍️ Quote of the Day
+<p align="center">
+  💬 Feel free to reach out for collaborations, projects, or just to say hi!
+</p>
 
-> *“Main hamesha naye cheezein seekhne aur apne skills ko upgrade karne mein vishwas rakhta hoon!”* 🌱
+
+---
+
+### 💬 My Motto
+
+<p align="center">
+  <i>"Main hamesha naye cheezein seekhne aur apne skills ko upgrade karne mein vishwas rakhta hoon!"</i>
+  <br>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100px" alt="Coding GIF">
+</p>
 
 ---
 
