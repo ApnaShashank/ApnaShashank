@@ -1,42 +1,81 @@
-<h1 align="center">Hi 👋, I'm Shashank Gupta</h1>
-<h3 align="center">🚀 BCA Student | 💻 Web Developer | 🧠 Tech Explorer | 🎯 AI & Data Science Enthusiast</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&color=FF6F61&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Shashank+Gupta" alt="Typing SVG">
+</h1>
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=20&color=6B7280&center=true&vCenter=true&width=600&lines=🚀+BCA+Student+|+💻+Web+Developer+|+🧠+Tech+Explorer+|+🎯+AI+%26+Data+Science+Enthusiast" alt="Typing SVG">
+  </a>
+</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
+  <b>Exploring the tech universe, one line of code at a time!</b>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+</p>
 
 ---
 
 ### 📌 About Me
-- 🎓 I’m currently pursuing **BCA (Bachelor of Computer Applications)**
-- 💡 I love learning about **Web Development, Python, and Tech Trends**
-- 🔧 Skills: **HTML, CSS, JavaScript, Python, C, MS Office (basic)**
-- 📫 Reach me at: **shashank8808108802@gmail.com**
-- 🌐 All my links in one place: [linktr.ee/shashankgupta172](https://linktr.ee/shashankgupta172)
+
+- 🎓 **Pursuing BCA (Bachelor of Computer Applications)** with a passion for tech innovation.
+- 💡 **Curious about Web Development, Python, AI, and emerging Tech Trends.**
+- 🔧 **Skills**: HTML, CSS, JavaScript, Python, C, MS Office (Proficient in building dynamic solutions).
+- 📫 **Email**: <a href="mailto:shashank8808108802@gmail.com">shashank8808108802@gmail.com</a>
+- 🌐 **Links**: <a href="https://linktr.ee/shashankgupta172">linktr.ee/shashankgupta172</a>
 
 ---
 
 ### 🛠️ Tech Stack
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
-![MS Office](https://img.shields.io/badge/-MS%20Office-05122A?style=flat&logo=microsoft-office)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,c,vscode,git,github" />
+  </a>
+  <br>
+  <img src="https://img.shields.io/badge/-MS%20Office-FF6F61?style=flat-square&logo=microsoft-office&logoColor=white" alt="MS Office">
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
-![Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=ApnaShashank&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ApnaShashank&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ApnaShashank&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Shashank's GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApnaShashank&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="38%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ApnaShashank&theme=dracula&hide_border=true" alt="GitHub Streak" width="48%">
+</p>
 
 ---
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shashank-gupta-2080b6338/)
-[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/ApnaShashank)
-[![Linktree](https://img.shields.io/badge/-Linktree-39e09b?style=flat&logo=linktree)](https://linktr.ee/shashankgupta172)
+<p align="center">
+  <a href="https://www.linkedin.com/in/shashank-gupta-2080b6338/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/ApnaShashank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://linktr.ee/shashankgupta172">
+    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree">
+  </a>
+</p>
 
 ---
 
-💬 *"Main hamesha naye cheezein seekhne aur apne skills ko upgrade karne mein vishwas rakhta hoon!"*
+### 💬 My Motto
 
+<p align="center">
+  <i>"Main hamesha naye cheezein seekhne aur apne skills ko upgrade karne mein vishwas rakhta hoon!"</i>
+  <br>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100px" alt="Coding GIF">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ApnaShashank.ApnaShashank" alt="Visitor Badge">
+</p>
