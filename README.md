@@ -1,7 +1,5 @@
-<!-- 🔥 Typing Intro (OLD STYLE KE JAISA) -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Shashank+Gupta;BCA+Student+%7C+Tech+Explorer;Full+Stack+Developer+%7C+AI+Learner;Always+Learning+New+Techs!" />
-</p>
+<!-- Banner or Intro GIF -->
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Shashank+Gupta;BCA+Student+%7C+Tech+Explorer;Web+Developer+%7C+Python+Lover;Always+Learning+New+Techs!+" alt="Typing SVG" /> </p>
 
 ---
 
